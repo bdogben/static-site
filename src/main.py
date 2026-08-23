@@ -1,8 +1,9 @@
-from textnode import TextNode, TextType
+from copystatic import copy_static
+from generatepage import generate_pages_recursive
 
 def main():
-    node = TextNode("This is some anchor text", TextType.LINK, "https://www.boot.dev")
-    print(node)
+    copy_static("static", "public")
+    generate_pages_recursive("content", "template.html", "public")
 
 if __name__ == "__main__":
     main()
