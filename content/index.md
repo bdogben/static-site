@@ -1,14 +1,14 @@
-# Tolkien Fan Club
+# Sina Fan Club
 
 ![JRR Tolkien sitting](/images/sina.png)
 
 Here's the deal, **I love you Sina**.
 
-## The rest is just the template I'm tired and don't want to do more right now
+## Kinda tired so I'll add more later maybe
 
-- [Why Glorfindel is More Impressive than Legolas](/blog/glorfindel)
-- [Why Tom Bombadil Was a Mistake](/blog/tom)
-- [The Unparalleled Majesty of "The Lord of the Rings"](/blog/majesty)
+- [Bullshit](/blog/glorfindel)
+- [More Bullshit](/blog/tom)
+- [Even More Bullshit](/blog/majesty)
 
 ## Reasons I like Tolkien
 
@@ -19,15 +19,15 @@ Here's the deal, **I love you Sina**.
 
 ## My favorite characters (in order)
 
-1. Gandalf
-2. Bilbo
-3. Sam
-4. Glorfindel
-5. Galadriel
-6. Elrond
-7. Thorin
-8. Sauron
-9. Aragorn
+1. Sina
+2. Sina
+3. Sina
+4. Sina
+5. Sina
+6. Sina
+7. Sina
+8. Sina
+9. Sina
 
 Here's what `elflang` looks like (the perfect coding language):
 
