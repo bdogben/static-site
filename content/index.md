@@ -1,14 +1,10 @@
 # Tolkien Fan Club
 
-![JRR Tolkien sitting](/images/tolkien.png)
+![JRR Tolkien sitting](/images/sina.png)
 
-Here's the deal, **I like Tolkien**.
+Here's the deal, **I love you Sina**.
 
-> "I am in fact a Hobbit in all but size."
->
-> -- J.R.R. Tolkien
-
-## Blog posts
+## The rest is just the template I'm tired and don't want to do more right now
 
 - [Why Glorfindel is More Impressive than Legolas](/blog/glorfindel)
 - [Why Tom Bombadil Was a Mistake](/blog/tom)
